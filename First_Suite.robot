@@ -43,4 +43,4 @@ Login
     Click Button    btnLogin
 
 GoToHome
-    Open Browser    ${URL}    ff
+    Open Browser    ${URL}    headlessfirefox
