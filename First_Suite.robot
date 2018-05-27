@@ -19,7 +19,7 @@ Test1
 Test2
     [Tags]    t2
     Login
-    Log To Console    Ravi have run the command on this OS
+    Log To Console    Ravi have run the job on this Linux OS
 
 Test3
     [Tags]    t3
