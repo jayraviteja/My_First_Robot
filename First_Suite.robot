@@ -19,9 +19,7 @@ Test1
 Test2
     [Tags]    t2
     Login
-    ${OS}    Get Environment Variable    GDMSESSION
-    ${UName}    Get Environment Variable    USER
-    Log To Console    ${UName} have run the command on ${OS} OS
+    Log To Console    Ravi have run the command on this OS
 
 Test3
     [Tags]    t3
