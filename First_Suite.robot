@@ -19,7 +19,7 @@ Test1
 Test2
     [Tags]    t2
     Login
-    ${OS}    Get Environment Variable    DESKTOP_SESSION
+    ${OS}    Get Environment Variable    GDMSESSION
     ${UName}    Get Environment Variable    USER
     Log To Console    ${UName} have run the command on ${OS} OS
 
